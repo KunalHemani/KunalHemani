@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 💫 About Me:
 🔭 I’m currently working on  <br>- Flutter-based mobile applications with Firebase integration  <br>- Full-stack projects<br>- Academic and practical projects related to MCA  <br><br>👯 I’m looking to collaborate on  <br>- Flutter & Firebase apps  <br>- MERN stack projects  <br>- Beginner-friendly open-source contributions  <br><br>🤝 I’m looking for help with  <br>- Advanced Flutter performance optimization  <br>- Cloud deployment & DevOps best practices  <br>- Real-world system design  <br><br>🌱 I’m currently learning  <br>- Advanced Flutter & state management  <br>- Node.js backend architecture  <br>- AI & ML fundamentals  <br>- DevOps tools and workflows  <br><br>💬 Ask me about  <br>- Flutter & Firebase  <br>- Web development basics  <br>- Node.js projects for beginners  <br>- App UI/UX structuring  <br><br>⚡ Fun fact  <br>- I enjoy turning ideas into working apps and learning by building 🚀
 
@@ -13,5 +11,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=KunalHemani&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=KunalHemani&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KunalHemani&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
